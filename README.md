@@ -1,6 +1,6 @@
 # Active Noise Cancellation Project for Leaf Blowers
 
-This project aimed to develop an active noise cancellation (ANC) algorithm to reduce the noise from leaf blowers. The goal was to improve sleep quality by cancelling out the 102-112 dB noise from leaf blowers. Developed by Rudra Prakash Singh in collaboration with Dr. Ashwin Ashok of the MORSE Lab at Georgia State University.
+This project aimed to develop an active noise cancellation (ANC) algorithm to reduce the noise from leaf blowers. The goal was to improve sleep quality by cancelling out the 102-112 dB noise from leaf blowers. Developed by Rudra Prakash Singh in collaboration with Georgia State University Computer Science Department.
 
 ## Background
 
