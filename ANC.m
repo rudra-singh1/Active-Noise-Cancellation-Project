@@ -1,6 +1,6 @@
 %Project: Active Noise Cancellation Algorithm for Leaf Blowers
 %Using Filtered-X LMS FIR Adaptive Filter
-%Developed by Professor Ashwin Ashok and Rudra Prakash Singh
+%Developed by Rudra Prakash Singh
 
 %Code built upon this documentation:https://www.mathworks.com/help/audio/ug
 %/active-noise-control-using-a-filtered-x-lms-fir-adaptive-filter.html#:~
