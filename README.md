@@ -12,7 +12,7 @@ To use this leaf blower noise cancellation algorithm:
 4. Update the `audio_file` variable with your leaf blower recording.
 5. Run the script to preprocess data and train the filter.
 6. Listen to cancellation noise output!
-7. 
+
 ## Background
 
 - Leaf blowers generate 102-112 dB of noise, enough to disrupt sleep cycles.
